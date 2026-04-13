@@ -21,6 +21,8 @@ questions_list.append(
         Question('2 + 2', '5', '3', '4', '1'))
 questions_list.append(
         Question('Национальная хижина якутов', 'Ураса', 'Юрта', 'Иглу', 'Хата'))
+questions_list.append(
+        Question('1', '2', '3', '4', '5'))
 app = QApplication([])
 
 btn_OK = QPushButton('Ответить') 
